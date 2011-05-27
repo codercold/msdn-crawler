@@ -51,3 +51,7 @@ structure:
 
 The MSDN crawler is licensed under the GPL 2.0 license. Please see gpl.txt for
 more information.
+
+3. Contributors
+- Sebastian Porst (sp@porst.tv)
+- Karthik (<neoxfx at gmail dot com>)
